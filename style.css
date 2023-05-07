@@ -46,6 +46,7 @@ header li {
     float: right;
     font-size: 1.2em;
     padding: 0 16px;
+    margin-right: 30px;
 }
 
 header li a {
@@ -64,7 +65,7 @@ header li a {
 
 #imagePrincipale {
     padding-top: 60px;
-    background: url(assets/media/image-principale.JPG) no-repeat fixed 50% 50%;
+    background: url(assets/media/image-principale1.JPG) no-repeat fixed 50% 50%;
     background-size: cover;
     height: 799px;
 }
@@ -122,13 +123,10 @@ h3 {
 .imagesPrestations img {
     border-radius: 10px;
     box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
+    max-height: 250px;
 }
 
-.imagesPrestations img:hover {
-    opacity: 0.5;
-    transform: scale(1.05);
-    transition: 0.4s ease-in-out;
-}
+
 
 
 /* ******************************TOURISME************************** */
@@ -144,40 +142,55 @@ h3 {
 }
 
 #ocean {
-    background: url(assets/media/ocean.jpg);
+    background: url(assets/media/ocean1.jpg);
+    background-position: center bottom;
+    background-size: 100%;
 }
 
 #chateau {
-    background: url(assets/media/chateau.JPG);
+    background: url(assets/media/chateau1.JPG);
+    background-size: 100%;
+    background-position: center bottom;
 }
 
 #phare {
-    background: url(assets/media/phare.JPG);
+    background: url(assets/media/phare1.JPG);
+    background-size: 110%;
+    background-position: center bottom;
 }
 
 #vignoble {
-    background: url(assets/media/vignes.jpg);
+    background: url(assets/media/vignes1.jpg);
+    background-position: center bottom;
+    background-size: 100%;
+
 }
 
 #tourisme li {
     margin: 65px 100px 0 100px;
-    height: 226px;
+    height: 270px;
     width: 55%;
     max-width: 550px;
     float: left;
     box-shadow: 6px 6px 28px -1px rgba(0, 0, 0, 0.75);
 }
 
+#tourisme li:hover {
+    opacity: 0.5;
+    transform: scale(1.05);
+    transition: 0.4s ease-in-out;
+}
+
 #tourisme p {
     height: 45px;
     width: 235px;
-    background-color: #01df74;
+    background-color: rgb(109, 146, 224);
     float: right;
     margin: 50px -180px 0 0;
     font-size: 1.5em;
     text-align: center;
     padding-top: 15px;
-    box-shadow: 4px 4px 0 1px rgba(90, 161, 43, 1);
+    box-shadow: -4px 4px 0 1px rgb(41, 15, 156);
 }
 
 #tourisme #chateau,
@@ -188,9 +201,9 @@ h3 {
 #chateau p,
 #vignoble p {
     float: left;
-    background-color: cyan;
+    background-color: rgb(109, 146, 224);
     margin-left: -180px;
-    box-shadow: -4px 4px 0 1px rgba(15, 154, 156, 1);
+    box-shadow: -4px 4px 0 1px rgb(41, 15, 156);
 }
 
 /* ******************************FOOTER************************** */
