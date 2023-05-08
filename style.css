@@ -65,7 +65,7 @@ header li a {
 
 #imagePrincipale {
     padding-top: 60px;
-    background: url(assets/media/image-principale1.JPG) no-repeat fixed 50% 50%;
+    background: url(assets/media/image-principale1.jpg) no-repeat fixed 50% 50%;
     background-size: cover;
     height: 799px;
 }
@@ -154,7 +154,7 @@ h3 {
 }
 
 #phare {
-    background: url(assets/media/phare1.JPG);
+    background: url(assets/media/phare1.jpg);
     background-size: 110%;
     background-position: center bottom;
 }
