@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1><b>:house: Malo-les bains - Le Méridien :beach_umbrella:</b></h1>
+    <h1><b>:house: Malo-les-bains - Le Méridien :beach_umbrella:</b></h1>
     <img src='/assets/readme/main.png' width='250' height='250' />
     <p>YT TUTO [Projet HTML + CSS, développer son premier site web et le mettre en ligne]</b></p>
 
@@ -29,6 +29,7 @@
     <li><a href="#-installation">Installation</a></li>
     <li><a href="#-showcase">Showcase</a></li>
     <li><a href="#-ressources">Ressources</a></li>
+    <li><a href="#-go-further">Go further</a></li>
     <li><a href="#-license">License</a></li>
     <li><a href="#%EF%B8%8F-contact">Contact</a></li>
   </ul>
@@ -74,8 +75,8 @@ No sketch direct-to-code following the tuto
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | background-color | ![#FFFAE1](https://via.placeholder.com/10/FFFAE1?text=+) #FFFAE1 |
-| main-color | ![#A5A5C6](https://via.placeholder.com/10/A5A5C6?text=+) #A5A5C6 |
-| secondary-color | ![#D691CE](https://via.placeholder.com/10/D691CE?text=+) #D691CE |
+| font-color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
+| secondary-color | ![#6D92E0](https://via.placeholder.com/10/6D92E0?text=+) #6D92E0 |
 | footer-color | ![#524a3a](https://via.placeholder.com/10/524a3a?text=+) #524a3a |
 
 <br />
@@ -110,15 +111,15 @@ cd repo
 
 ### Key features
 * Navbar fixed
-* Search form
-* Match gallery
-* Game
-* Sign-up
+* Home section with parallax
+* Presentation section
+* Section with links
+* Footer-form
 
 <br />
 
 ### Details
-The site is developped in mobile-first but some screens below are from desktop because of the scroll.
+The site is developped as an one-page website, the navbar is fixed with 2 links to extern websites and one link to the footer on the bottom. Themain picture is fixed as well to make a parallax effect.
 <br />
 #### Home section
 Animation added on the  main button.
@@ -129,7 +130,6 @@ Animation added on the  main button.
 </p>
 
 #### Presentation section
-Same questions between search form and sign-up form.
 <br />
 <br />
 <p align="center"> 
@@ -137,7 +137,7 @@ Same questions between search form and sign-up form.
 </p>
 
 #### Tourism section
-Same questions between search form and sign-up form.
+Hover on each element, each one is a link to a extern site about the tourism topic.
 <br />
 <br />
 <p align="center"> 
@@ -145,7 +145,7 @@ Same questions between search form and sign-up form.
 </p>
 
 #### Footer section
-Same questions between search form and sign-up form.
+There are a form and a social links part
 <br />
 <br />
 <p align="center"> 
@@ -166,8 +166,22 @@ Same questions between search form and sign-up form.
 * Box/Text-shadow : https://html-css-js.com/css/generator/box-shadow/
 * Parallax : https://www.w3schools.com/howto/howto_css_parallax.asp
 
-### Déploiement
+### Deployment
 * https://www.planethoster.com/fr/World-Lite
+
+<br />
+
+<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+
+---
+
+## 🔨 **GO FURTHER**
+
+* Make the contact form effective
+* Improve text lisibility
+* Add the right Airbnb link
+* Change social icons/links
+* Improve the responsive
 
 <br />
 
@@ -190,4 +204,4 @@ No specific licence
 [<img alt="Github" src="https://img.shields.io/badge/Newaluigi-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Newaluigi/)
 
 <br />
-<p align="right">(<a href="#-Malo-">back to top</a>)</p>
+<p align="right">(<a href="-malo-les-bains---le-m%C3%A9ridien-">back to top</a>)</p>
