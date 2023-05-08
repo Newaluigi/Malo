@@ -46,7 +46,7 @@ It's a front project, there is no back-end so the contact form doesn't send a me
 
 <br />
 
-<p align="right">(<a href="#-malo-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -60,7 +60,7 @@ It's a front project, there is no back-end so the contact form doesn't send a me
 
 <br />
 
-<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -81,7 +81,7 @@ No sketch direct-to-code following the tuto
 
 <br />
 
-<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -103,7 +103,7 @@ cd repo
 
 <br />
 
-<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -152,7 +152,7 @@ There are a form and a social links part.
 </p>
 
 
-<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -170,7 +170,7 @@ There are a form and a social links part.
 
 <br />
 
-<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -184,7 +184,7 @@ There are a form and a social links part.
 
 <br />
 
-<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -194,7 +194,7 @@ No specific licence
 
 <br />
 
-<p align="right">(<a#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
