@@ -1,5 +1,5 @@
-<div align='center' id="top">
-    <h1><b>:house: Malo-les-bains - Le Méridien :beach_umbrella:</b></h1>
+<div align='center'>
+    <h1 id="top"><b>:house: Malo-les-bains - Le Méridien :beach_umbrella:</b></h1>
     <img src='/assets/readme/main.png' width='250' height='250' />
     <p>YT TUTO [Projet HTML + CSS, développer son premier site web et le mettre en ligne]</b></p>
 
@@ -203,4 +203,4 @@ No specific licence
 [<img alt="Github" src="https://img.shields.io/badge/Newaluigi-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Newaluigi/)
 
 <br />
-<p align="right">[back to top](#top)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
