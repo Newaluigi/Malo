@@ -81,6 +81,15 @@ No sketch direct-to-code following the tuto
 
 <br />
 
+### Font Reference
+
+| Font             | Ref                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| main-font | **Advent Pro** |
+| title-font | **Dancing Script** |
+
+<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
@@ -164,6 +173,9 @@ There are a form and a social links part.
 * Float : https://developer.mozilla.org/fr/docs/Web/CSS/float
 * Box/Text-shadow : https://html-css-js.com/css/generator/box-shadow/
 * Parallax : https://www.w3schools.com/howto/howto_css_parallax.asp
+
+### Social icons
+* https://cdnjs.com/libraries/font-awesome/4.7.0
 
 ### Deployment
 * https://www.planethoster.com/fr/World-Lite
