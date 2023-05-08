@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' id="top">
     <h1><b>:house: Malo-les-bains - Le Méridien :beach_umbrella:</b></h1>
     <img src='/assets/readme/main.png' width='250' height='250' />
     <p>YT TUTO [Projet HTML + CSS, développer son premier site web et le mettre en ligne]</b></p>
@@ -122,7 +122,6 @@ cd repo
 The site is developped as an one-page website, the navbar is fixed with 2 links to extern websites and one link to the footer on the bottom. Themain picture is fixed as well to make a parallax effect.
 <br />
 #### Home section
-Animation added on the  main button.
 <br />
 <br />
 <p align="center"> 
@@ -145,7 +144,7 @@ Hover on each element, each one is a link to a extern site about the tourism top
 </p>
 
 #### Footer section
-There are a form and a social links part
+There are a form and a social links part.
 <br />
 <br />
 <p align="center"> 
@@ -195,7 +194,7 @@ No specific licence
 
 <br />
 
-<p align="right">(<a href="#-game-date--match-">back to top</a>)</p>
+<p align="right">(<a#-game-date--match-">back to top</a>)</p>
 
 ---
 
@@ -204,4 +203,4 @@ No specific licence
 [<img alt="Github" src="https://img.shields.io/badge/Newaluigi-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Newaluigi/)
 
 <br />
-<p align="right">(<a href="-malo-les-bains---le-m%C3%A9ridien-">back to top</a>)</p>
+<p align="right">[back to top](#top)</p>
