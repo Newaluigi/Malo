@@ -68,7 +68,7 @@ It's a front project, there is no back-end so the contact form doesn't send a me
 
 ### Figma
 
-No sketch direct-to-code following the tuto
+No sketch direct-to-code following the tuto https://www.youtube.com/watch?v=bZ3SC6PvAC8&t=5184s [From Scratch - Le développement Web de zéro]
 
 ### Color Reference
 
