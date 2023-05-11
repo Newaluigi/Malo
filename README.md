@@ -101,7 +101,7 @@ No sketch direct-to-code following the tuto https://www.youtube.com/watch?v=bZ3S
 1. clone the repo
 
 ```
-git clone https://github.com/Newaluigi/Game_Date_Match.git
+git clone https://github.com/Newaluigi/Malo.git
 ```
 
 2. cd into cloned repo
